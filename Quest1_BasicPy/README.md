@@ -1,4 +1,4 @@
-#Quest1 Basic Python
+# Quest1 Basic Python
 Just to implement some basic functions using Python
 Function list:
 isSorted(list)
